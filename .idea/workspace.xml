@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdc07138-7bfa-482b-a614-c3f19b42e0a9" name="Changes" comment="calculo-triangulo-inclui-array-para-add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cdc07138-7bfa-482b-a614-c3f19b42e0a9" name="Changes" comment="calculo-triangulo-inclui-logica-dowhile-scScanner">
       <change beforePath="$PROJECT_DIR$/src/com/udemy/programacaoorientadaaobjetos/TesteTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/udemy/programacaoorientadaaobjetos/TesteTriangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697057228552</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="calculo-triangulo-inclui-logica-dowhile-scScanner">
+      <created>1697118628927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697118628927</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="calculo-triangulo-teorema-de-heron" />
     <MESSAGE value="calculo-triangulo-inclui-array-para-add" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculo-triangulo-inclui-array-para-add" />
+    <MESSAGE value="calculo-triangulo-inclui-logica-dowhile-scScanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculo-triangulo-inclui-logica-dowhile-scScanner" />
   </component>
 </project>

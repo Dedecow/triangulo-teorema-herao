@@ -8,7 +8,7 @@ public class TesteTriangulo {
         Triangulo[] triangulos = new Triangulo[3];
         Scanner scn = new Scanner(System.in);
         int i = 0;
-
+        int opcao = 0;
         do {
             System.out.println(" Digite o valor do primeiro lado");
             float lado1 = Float.parseFloat(scn.nextLine());
@@ -18,6 +18,11 @@ public class TesteTriangulo {
             float lado3 = Float.parseFloat(scn.nextLine());
             triangulos[i] = new Triangulo(lado1, lado2, lado3);
             i++;
+            /*System.out.println("Deseja cadastrar um novo triângulo? 1 - Sim, 2 - Não");
+            switch (opcao){
+                case 1
+            }*/
+
         } while (i < 3);
         i=0;
         do {
